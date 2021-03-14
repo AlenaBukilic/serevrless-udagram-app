@@ -1,6 +1,6 @@
-# Serverless Udagramm - AWS Node.js Typescript
+# Serverless Udagram - AWS Node.js Typescript
 
-Serverless app to upload images by groups. Build using serverless lambda functions using API Gateway. With options to send notifications using AWS Simple Notification Service and WebSocet. Build on top of DynamoDB and Elasticsearch used to search through images by name.
+Serverless app for uploading images by groups. Build using serverless lambda functions using API Gateway. With options to send notifications using AWS Simple Notification Service and WebSocket. Build on top of DynamoDB and Elasticsearch used to search through images by name.
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
